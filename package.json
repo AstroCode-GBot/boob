@@ -13,11 +13,12 @@
   "author": "@QUANTUM_NULL",
   "license": "ISC",
   "dependencies": {
-  "express": "^4.21.2",
-  "ws": "^8.18.0",
-  "node-telegram-bot-api": "^0.66.0",
-  "multer": "^2.0.2"
+    "express": "^4.21.2",
+    "ws": "^8.18.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "uuid": "^11.1.0",
+    "multer": "^2.0.2",
+    "body-parser": "^2.2.0",
+    "axios": "^1.13.2"
   }
 }
-
-
