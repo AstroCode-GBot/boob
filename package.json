@@ -1,17 +1,19 @@
+
 {
-"name": "blackbird",
-"version": "1.0.0",
-"description": "",
-"main": "index.js",
-"engines": {
-"node": "22.x"
-},
-"scripts": {
-"start": "node index.js"
-},
-"author": "@QUANTUM_NULL",
-"license": "ISC",
-"dependencies": {
-"express": "^4.21.2"
-}
+  "name": "blackbird",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@QUANTUM_NULL",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "ws": "^8.18.0"
+  }
 }
